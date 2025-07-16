@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Ram
-- 👀 I’m interested in web devolepment
+- 💻 Full Stack Web Developer
+- 👨‍💻 Aspiring 3D Modeler
 - 🌱 I’m currently learning web devolepment
 - 💞️ I’m looking to collaborate on some clients
 - 📫 How to reach me mail @rampraveen1912@gmail.com
